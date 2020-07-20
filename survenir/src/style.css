@@ -1,0 +1,20 @@
+/* Hoja de estilos unificada que abarca todos los componentes que es usen */
+/* Lista con todos las clases que fueron usadas: */
+/* div >> DIV000  */
+/* p >>  */
+/* h >>  */
+/* a >>  */
+
+
+body{
+    width: 100%;
+    height: 1000px;
+}
+.DIV000{
+    width: 100%;
+    height: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(119deg, rgba(2,0,36,1) 0%, rgba(8,37,139,1) 15%, rgba(5,115,191,1) 69%, rgba(0,255,154,1) 100%);
+    text-align: center;
+    color: white;
+}
